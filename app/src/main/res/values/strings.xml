@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">ClickZan</string>
+    <string name="textview">点赞</string>
+    <string name="img_button_msg">点赞按钮</string>
 </resources>
